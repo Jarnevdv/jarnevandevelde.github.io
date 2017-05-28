@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300');
+#fb
+{
+    width: 30px;
+    height: 30px;
+    margin-right: 30px;
+    margin-left: 88%;
+    margin-top: 15px;
+    position: absolute;
+    z-index: 4;
+}
+
+#twitter
+{
+    width: 30px;
+    height: 30px;
+    margin-right: 30px;
+    margin-left: 85%;
+    margin-top: 15px;
+    position: absolute;
+    z-index: 4;
+}
+#credits
+{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+     z-index: 5;
+     font-size: 9pt;
+     position: absolute;
+     margin-left: 45%;
+     margin-top: 730px;
+     text-align: center;
+     opacity: 0.7;
+
+
+}
+#slogan {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+     z-index: 5;
+     position: absolute;
+     margin-top: 330px;
+     margin-left: 72%;
+     font-size: 20px;
+     line-height: 1px;
+     font-weight: bold;
+     float: right;
+}
+     #slogan2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+     z-index: 5;
+     position: absolute;
+     margin-top: 300px;
+     margin-left: 72%;
+     font-size: 20px;
+     line-height: 1px;
+     font-weight: 100;
+     float: right;
+}
+#rectangle{
+    width:99.2%;
+    height:80px;
+    background:#ffe631;
+    z-index: 2;
+    position: absolute;
+    margin-top: -10px;
+}
+    
+#logo
+{
+    width: 190px;
+    height: 80px;
+    float: left;
+    margin-left: -10px;
+    margin-top: -10px;
+    position: absolute;
+    z-index: 3;
+}
+#cameracrew
+{
+    width:1200px;
+    height:660px;
+    float:left;
+    position: absolute;
+    z-index: 1;
+    margin-left: -250px;
+    margin-top: 60px;
+}
+.nav {
+  width: 615px;
+  background: #ffe631;
+  float:left;
+  font-family: 'Source Sans Pro', sans-serif;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 50px;
+    z-index: 3;
+}
+.nav > ul {
+  list-style: none;
+  margin:0;
+  padding:0;
+}
+.nav_item-link{
+    width: 80px;
+    height: 25px;
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  float: right;
+}
+.nav_item-link:hover {
+  color: #ffe631;
+  background: black;
+}
+.nav_item-link_active {
+  color: white;
+  background: black;
+}
+.clearfix {
+  overflow:auto;
+}
+
+#rectangle2{
+       width:99%;
+    height:80px;
+    background:#141414;
+    z-index: 5;
+    position: absolute;
+    margin-top: 700px;
+    margin-left: -20px;
+}
+
+body{
+    background:black;
+}
