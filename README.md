@@ -1,2 +1,2 @@
-# Jarnevandevelde.github.io
+# jarnevandevelde.github.io
 Opdracht Webdesign II: New Media Agency
